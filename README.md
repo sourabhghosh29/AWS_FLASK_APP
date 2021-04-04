@@ -28,15 +28,23 @@ Project Description: ML Powered UFC Fights historical analytics website and Mach
 AWS Infrastructure Used:
 
 AWS Elastic Beanstalk (Flask App User Login Module)
+
 AWS EC2 instances (Dash App: Analytics websites module)
+
 Amazon SageMaker
+
 Amazon S3
+
 AWS CloudWatch
+
+
 Project Credits:
 
 Aditya Tornekar
 Sourabh Ghosh
 Shreyas Sadagopan
 Rishabh Agarwal
+
 Demo
+
 ![Demo](https://user-images.githubusercontent.com/54787115/113495280-79050000-94be-11eb-88d8-efa3b94c7ceb.png)
