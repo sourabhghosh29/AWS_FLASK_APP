@@ -23,3 +23,20 @@ Here are some of the trends that have been spotted in recent MMA years to note:
 * Fights go on longer in general 
 * Southpaws win 53% of their fights, as opposed to 48% for orthodox fighters 
 * Fighters who switch stances have an even higher success rate than both orthodox and southpaw fighters, with a combined win percentage of 57%
+Project Description: ML Powered UFC Fights historical analytics website and Machine learning fight predictions for odds generation and tweaking
+
+AWS Infrastructure Used:
+
+AWS Elastic Beanstalk (Flask App User Login Module)
+AWS EC2 instances (Dash App: Analytics websites module)
+Amazon SageMaker
+Amazon S3
+AWS CloudWatch
+Project Credits:
+
+Aditya Tornekar
+Sourabh Ghosh
+Shreyas Sadagopan
+Rishabh Agarwal
+Demo
+![Demo](https://user-images.githubusercontent.com/54787115/113495280-79050000-94be-11eb-88d8-efa3b94c7ceb.png)
