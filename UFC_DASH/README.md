@@ -38,7 +38,3 @@ Let's take the main card of **UFC 217** to see how well the app performs. Note t
 * **Stephen Thompson** (@1.57) vs Jorge Masvidal (@2.57)
 
 The web app predicted all the above fights correct except for **Joanna vs Rose Namajunas** where Joanna had most fight stats dominant over Rose and was the big favourite over Rose. However, Rose caught Joanna with a fight ending hook during the fight and it was indeed 'Goodnight Irene'.
-
-# Citation
-
-I would appreciate it if you cite my [Github repo](https://github.com/jasonchanhku/UFC-MMA-Predictor) if you ever use any information or derived any inspiration from here.
